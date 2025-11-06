@@ -1,0 +1,15 @@
+E:\Visual Basic Projects\MSSA\GallacticPizzaChallenge\GallacticPizzaChallenge\MyApp\bin\Debug\net9.0\MyApp.exe
+E:\Visual Basic Projects\MSSA\GallacticPizzaChallenge\GallacticPizzaChallenge\MyApp\bin\Debug\net9.0\MyApp.deps.json
+E:\Visual Basic Projects\MSSA\GallacticPizzaChallenge\GallacticPizzaChallenge\MyApp\bin\Debug\net9.0\MyApp.runtimeconfig.json
+E:\Visual Basic Projects\MSSA\GallacticPizzaChallenge\GallacticPizzaChallenge\MyApp\bin\Debug\net9.0\MyApp.dll
+E:\Visual Basic Projects\MSSA\GallacticPizzaChallenge\GallacticPizzaChallenge\MyApp\bin\Debug\net9.0\MyApp.pdb
+E:\Visual Basic Projects\MSSA\GallacticPizzaChallenge\GallacticPizzaChallenge\MyApp\obj\Debug\net9.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Basic Projects\MSSA\GallacticPizzaChallenge\GallacticPizzaChallenge\MyApp\obj\Debug\net9.0\MyApp.AssemblyInfoInputs.cache
+E:\Visual Basic Projects\MSSA\GallacticPizzaChallenge\GallacticPizzaChallenge\MyApp\obj\Debug\net9.0\MyApp.AssemblyInfo.cs
+E:\Visual Basic Projects\MSSA\GallacticPizzaChallenge\GallacticPizzaChallenge\MyApp\obj\Debug\net9.0\MyApp.csproj.CoreCompileInputs.cache
+E:\Visual Basic Projects\MSSA\GallacticPizzaChallenge\GallacticPizzaChallenge\MyApp\obj\Debug\net9.0\MyApp.sourcelink.json
+E:\Visual Basic Projects\MSSA\GallacticPizzaChallenge\GallacticPizzaChallenge\MyApp\obj\Debug\net9.0\MyApp.dll
+E:\Visual Basic Projects\MSSA\GallacticPizzaChallenge\GallacticPizzaChallenge\MyApp\obj\Debug\net9.0\refint\MyApp.dll
+E:\Visual Basic Projects\MSSA\GallacticPizzaChallenge\GallacticPizzaChallenge\MyApp\obj\Debug\net9.0\MyApp.pdb
+E:\Visual Basic Projects\MSSA\GallacticPizzaChallenge\GallacticPizzaChallenge\MyApp\obj\Debug\net9.0\MyApp.genruntimeconfig.cache
+E:\Visual Basic Projects\MSSA\GallacticPizzaChallenge\GallacticPizzaChallenge\MyApp\obj\Debug\net9.0\ref\MyApp.dll
