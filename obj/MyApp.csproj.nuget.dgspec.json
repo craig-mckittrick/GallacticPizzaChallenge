@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Visual Basic Projects\\MSSA\\GallacticPizzaChallenge\\GallacticPizzaChallenge\\MyApp\\MyApp.csproj": {}
+    "E:\\Visual Basic Projects\\MSSA\\GallacticPizzaChallenge\\MyApp.csproj": {}
   },
   "projects": {
-    "E:\\Visual Basic Projects\\MSSA\\GallacticPizzaChallenge\\GallacticPizzaChallenge\\MyApp\\MyApp.csproj": {
+    "E:\\Visual Basic Projects\\MSSA\\GallacticPizzaChallenge\\MyApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Visual Basic Projects\\MSSA\\GallacticPizzaChallenge\\GallacticPizzaChallenge\\MyApp\\MyApp.csproj",
+        "projectUniqueName": "E:\\Visual Basic Projects\\MSSA\\GallacticPizzaChallenge\\MyApp.csproj",
         "projectName": "MyApp",
-        "projectPath": "E:\\Visual Basic Projects\\MSSA\\GallacticPizzaChallenge\\GallacticPizzaChallenge\\MyApp\\MyApp.csproj",
+        "projectPath": "E:\\Visual Basic Projects\\MSSA\\GallacticPizzaChallenge\\MyApp.csproj",
         "packagesPath": "C:\\Users\\mckit\\.nuget\\packages\\",
-        "outputPath": "E:\\Visual Basic Projects\\MSSA\\GallacticPizzaChallenge\\GallacticPizzaChallenge\\MyApp\\obj\\",
+        "outputPath": "E:\\Visual Basic Projects\\MSSA\\GallacticPizzaChallenge\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mckit\\AppData\\Roaming\\NuGet\\NuGet.Config"

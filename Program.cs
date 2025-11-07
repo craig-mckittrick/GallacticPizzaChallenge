@@ -74,7 +74,7 @@ class Program
             if (pizzaTypes.ContainsKey(pizzaRequest))
             {
                 Console.WriteLine();
-    // Update total cost
+                totalCost += pizzaTypes[pizzaRequest].Cost;
                 Console.WriteLine($"You have selected {pizzaTypes[pizzaRequest]} as your pizza type. Your total is {totalCost}. Enter another pizza type or type \"done\" to finish.");
                 break;
             }
