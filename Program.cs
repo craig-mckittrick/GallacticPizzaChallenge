@@ -32,7 +32,8 @@ class Program
 
             if (planetOptions.ContainsKey(userPlanetChoice))
             {
-                Console.WriteLine($"You have selected {userPlanetChoice}: {planetOptions[userPlanetChoice]} as your destination.");
+                Console.WriteLine();
+                Console.WriteLine($"You have selected {planetOptions[userPlanetChoice]} as your destination.");
                 planet = planetOptions[userPlanetChoice];
                 break;
             }
@@ -62,8 +63,29 @@ class Program
             Console.WriteLine($"{option.Key}: {option.Value.Name.PadRight(25)} {option.Value.Cost} credits");
         }
         Console.WriteLine();
-        Console.WriteLine("What type of pizza would you like?");
+        Console.WriteLine("What type of pizza would you like? Continue to enter requests and type \"done\" when finished.");
+        string pizzaRequest = "";
+        int totalCost = 0;
 
+        while (true)
+        {
+            pizzaRequest = Console.ReadLine().ToUpper();
 
+            if (pizzaTypes.ContainsKey(pizzaRequest))
+            {
+                Console.WriteLine();
+    // Update total cost
+                Console.WriteLine($"You have selected {pizzaTypes[pizzaRequest]} as your pizza type. Your total is {totalCost}. Enter another pizza type or type \"done\" to finish.");
+                break;
+            }
+            else if (pizzaRequest.ToLower() == "done")
+            {
+                break;
+            }
+            else
+            {
+                Console.WriteLine("Invalid choice. Please select a valid pizza type (A, B, C, or D).");
+            }
+        }
     }
 }
